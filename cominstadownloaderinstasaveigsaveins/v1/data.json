@@ -1,0 +1,32 @@
+[
+	{
+		"link": "https://play.google.com/store/apps/dev?id=5113860602427758745",
+		"img": "yyy",
+		"title":
+		{
+			"en": "重要更新",
+			"zh": "有新版本了，请立即下载！"
+		},
+		"text":
+		{
+			"en": "best downloader",
+			"zh": "者是一款非常牛逼的下载器"
+		},
+		"policy": -99
+	},
+	{
+		"link": "https://play.google.com/store/apps/dev?id=5113860602427758745",
+		"img": "zzz",
+		"title":
+		{
+			"en": "Insta downloader",
+			"zh": "下载器"
+		},
+		"text":
+		{
+			"en": "best downloader",
+			"zh": "者是一款非常牛逼的下载器"
+		},
+		"policy": 22
+	}
+]
