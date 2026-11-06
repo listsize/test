@@ -1,4 +1,5 @@
-[
+{
+"apps":[
 	{
 		"link": "https://play.google.com/store/apps/dev?id=5113860602427758745",
 		"img": "https://raw.githubusercontent.com/listsize/test/refs/heads/main/cominstadownloaderinstasaveigsaveins/128.png",
@@ -29,4 +30,9 @@
 		},
 		"policy": 22
 	}
-]
+],
+
+"tikdown":"https://play.google.com/store/apps/details?id=com.tiksaver.snaptik.tiktok.video.whithout.watermark.snaptik.new2"
+
+}
+
